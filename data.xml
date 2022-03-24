@@ -1,0 +1,11 @@
+<Config version="1.0">
+    <v1.0-Element>
+        <v1.0-Sub-Element>Content line</v1.0-Sub-Element>
+    </v1.0-Element>
+    <v1.0-Element>
+        <v1.0-Sub-Element>Content line</v1.0-Sub-Element>
+    </v1.0-Element>
+    <v1.0-Element>
+        <success>Content line</success>
+    </v1.0-Element>
+</Config>
